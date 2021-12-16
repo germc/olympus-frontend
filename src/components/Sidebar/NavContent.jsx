@@ -106,7 +106,7 @@ function NavContent() {
                   >
                     <Typography variant="h6">
                       <SvgIcon color="primary" component={StakeIcon} />
-                      <Trans>Stake</Trans>
+                      <Trans>Stakeli</Trans>
                     </Typography>
                   </Link>
 
