@@ -122,7 +122,7 @@ function NavContent() {
                     <Box display="flex" alignItems="center">
                       <SvgIcon component={WrapIcon} color="primary" viewBox="1 0 20 22" />
                       {/* <WrapIcon /> */}
-                      <Typography variant="h6">Wrap</Typography>
+                      <Typography variant="h6">Wrapo</Typography>
                       {/* <SvgIcon component={WrapIcon} viewBox="21 -2 20 20" style={{ width: "80px" }} /> */}
                     </Box>
                   </Link>
@@ -133,7 +133,7 @@ function NavContent() {
                   >
                     <Typography variant="h6">
                       <BridgeIcon />
-                      <Trans>Bridge</Trans>
+                      <Trans>Bridgeo</Trans>
                       <SvgIcon style={{ marginLeft: "5px" }} component={ArrowUpIcon} />
                     </Typography>
                   </Link>
