@@ -264,7 +264,7 @@ function Stake() {
           <Grid container direction="column" spacing={2}>
             <Grid item>
               <div className="card-header">
-                <Typography variant="h5">Single Stake (3, 3)a</Typography>
+                <Typography variant="h5">Single Stake (3, 3)</Typography>
                 <RebaseTimer />
               </div>
             </Grid>
@@ -309,7 +309,7 @@ function Stake() {
                     {modalButton}
                   </div>
                   <Typography variant="h6">
-                    <Trans>Connect your wallet to stake OHM</Trans>
+                    <Trans>Connect your wallet to stake OHM hi</Trans>
                   </Typography>
                 </div>
               ) : (
